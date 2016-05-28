@@ -1,6 +1,6 @@
 ---
 title: "Programming with Hierarchical Statistical Models: An Intro to the BUGS-compatible NIMBLE system and to JAGS"
-subtitle: "ASA SBSS webinar"
+subtitle: "ISBA 2016 short course"
 author: "Chris Paciorek, Department of Statistics, UC Berkeley"
 output:
   html_document:
@@ -156,7 +156,7 @@ Here are some of the features you can do in NIMBLE that we are most excited abou
 
 # Modules
 
-Here are the modules we'll work through for this workshop, though we probably won't get to all of them.
+Here are the modules we'll work through for this workshop, though we probably won't get to all of them. With the exception of the BUGS language and Using JAGS modules, the remaining modules are specific to NIMBLE.
 
  - Introduction to BUGS, JAGS, and NIMBLE
     1. [The BUGS language](bugs_language_slides.html)
