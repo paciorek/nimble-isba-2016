@@ -58,7 +58,7 @@ system.time(path <- cmc(n, rho1, rho2))
 
 # solution to problem 1
 
-```{r, solution}
+```{r, solution, eval=FALSE, echo=FALSE}
 set.seed(0)
 n <- 1e6
 path <- rep(0, n)
